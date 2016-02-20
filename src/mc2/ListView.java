@@ -9,7 +9,7 @@ import java.util.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class Gui {
+public class ListView {
     private ArrayList<JCheckBox> checkboxes = new ArrayList<JCheckBox>();
     private JFrame view1;
     private JTextField txtNewTask;
@@ -19,7 +19,7 @@ public class Gui {
     
     private ArrayList <String> taskList = new ArrayList <String> ();
     
-    public Gui(){
+    public ListView(){
         txtNewTask = new JTextField();
         btnAddTask = new JButton("Add Task");
         btnSetDate = new JButton("Set Date");
