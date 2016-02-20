@@ -1,4 +1,4 @@
-package mc2;
+	package mc2;
 public class MC2 {
     public static void main(String[] args) {
         Gui gui = new Gui();
@@ -8,7 +8,7 @@ public class MC2 {
     //test
 
     //HeyWassupHello	
-
+    // work work sex lords
     //sex
     //migoedit
 
