@@ -7,11 +7,21 @@ public class MC2 {
     //sex lord - neil to
 =======
     //test
+<<<<<<< HEAD
+    //HeyWassupHello	
+=======
     //sex
     //migoedit
+<<<<<<< HEAD
     //czarina franchesca cruz
 <<<<<<< HEAD
 >>>>>>> origin/master
 =======
+>>>>>>> origin/master
+=======
+>>>>>>> origin/master
+
+
+   //HELLO FROM THE OTHER COMPUTERRRR
 >>>>>>> origin/master
 }
