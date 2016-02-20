@@ -9,5 +9,9 @@ public class MC2 {
     //test
     //sex
     //migoedit
+    //czarina franchesca cruz
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
 }
