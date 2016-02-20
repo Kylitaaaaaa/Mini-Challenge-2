@@ -7,11 +7,12 @@ public class MC2 {
     //sex lord - neil to
 =======
     //test
-<<<<<<< HEAD
+
     //HeyWassupHello	
-=======
+
     //sex
     //migoedit
+<<<<<<< HEAD
 <<<<<<< HEAD
     //czarina franchesca cruz
 <<<<<<< HEAD
@@ -20,8 +21,13 @@ public class MC2 {
 >>>>>>> origin/master
 =======
 >>>>>>> origin/master
+=======
+>>>>>>> origin/master
 
 
+    //Migo Edit Pull niyo Harry Neil Thea
+    
+    
    //HELLO FROM THE OTHER COMPUTERRRR
 >>>>>>> origin/master
 }
