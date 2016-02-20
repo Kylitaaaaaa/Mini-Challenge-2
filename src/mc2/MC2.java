@@ -4,5 +4,13 @@ public class MC2 {
         Gui gui = new Gui();
     }
     //test
+<<<<<<< HEAD
     //HeyWassupHello	
+=======
+    //sex
+    //migoedit
+>>>>>>> origin/master
+
+
+   //HELLO FROM THE OTHER COMPUTERRRR
 }
