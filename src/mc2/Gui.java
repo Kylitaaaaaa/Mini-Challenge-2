@@ -29,7 +29,7 @@ public class Gui {
         btnSetDate.setBounds(370, 50, 150, 40);
         btnAddTask.setBounds(530, 50, 150, 40);
         
-        btnSetDate.addActionListener(new btnSetDate_Action());
+   
         btnAddTask.addActionListener(new btnAddTask_Action()); 
                 
         view1 = new JFrame ("View 1");
@@ -44,13 +44,7 @@ public class Gui {
         view1.setVisible(true);
     }
     
-    class btnSetDate_Action implements ActionListener
-        {
-		public void actionPerformed (ActionEvent e)
-                {
-                    calendarGUI cg = new calendarGUI();
-		}
-	}
+  
     
     class btnAddTask_Action implements ActionListener
         {
